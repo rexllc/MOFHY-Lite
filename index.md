@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MOFHY Lite
 
 You can use the [editor on GitHub](https://github.com/mahtab2003/MOFHY-Lite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
