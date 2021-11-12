@@ -1,8 +1,7 @@
 ## Download MOFHY Lite
 MOFHY Lite is a free of cost MOFH clientarea for account management and support services with free ssl service. It has easy to use features much like the WHMCS Digit UI interface. 
 button.
-[Link button](http://example.com/){: .btn .btn-green }
-{% include button.html url="http://www.google.com" %}
+[Link This is a button](http://example.com/){: .btn }
 ## Table of Content 
 - [Features](#features)
 - [Requirements](#requirements) 
